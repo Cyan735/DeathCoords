@@ -1,0 +1,4 @@
+name: DeathCoords
+version: 'V1.0'
+main: cyan735.deathcoords.DeathCoords
+api-version: '1.20'
